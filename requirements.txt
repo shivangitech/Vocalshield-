@@ -1,8 +1,0 @@
-torch
-torchaudio
-librosa
-numpy
-fastapi
-uvicorn
-python-multipart
-scikit-learn
